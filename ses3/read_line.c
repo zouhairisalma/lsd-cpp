@@ -1,4 +1,4 @@
-#include "get_next_line.h"
+#include "read_lines.h"
 
 void	read_line(int fd)
 {
